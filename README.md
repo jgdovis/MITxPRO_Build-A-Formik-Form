@@ -2,7 +2,7 @@
 
 ## INSTALLATION GUIDELINES
 
-To install this MITxPRO GitHub page project in your local machine, follow these steps:
+To install this MITxPRO_Build-A-Formik-Form GitHub page project in your local machine, follow these steps:
 
 1. Download or clone the project from GitHub Repository.
 2. Go to content folder and add it to your code editor tool.
